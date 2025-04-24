@@ -7,7 +7,7 @@
 📫 Feel free to reach out through my [LinkedIn profile](https://www.linkedin.com/in/thulani-kalatuwawa) to connect!  
 
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/luvins._.z) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thulani-kalatuwawa/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:thulanikalatuwawa17@gmail.com) 
+ [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thulani-kalatuwawa/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:thulanikalatuwawa17@gmail.com) 
 
 ### 🛠️ Languages and Tools:
 <p>
@@ -24,9 +24,3 @@
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
 </p>
 
-### 📊 GitHub Stats:
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=thulanikalatuwawa&show_icons=true&theme=neon&count_private=true" />
-  <img src="https://streak-stats.demolab.com?user=thulanikalatuwawa&theme=radical&hide_border=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thulanikalatuwawa&layout=compact&theme=catppuccin_mocha" />
-</p>
